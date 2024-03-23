@@ -25,4 +25,7 @@
   2. Install dependencies (npm install).
   3. Run the server (npm start).
   4. Open http://localhost:3000 in your browser(s) to connect multiple clients.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8e2d48ff3772b0d6916bb64409efea7735b87a19
